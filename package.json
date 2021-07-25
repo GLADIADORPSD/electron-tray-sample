@@ -1,0 +1,23 @@
+{
+  "name": "Electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GLADIADORPSD/electron-tray-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GLADIADORPSD/electron-tray-sample/issues"
+  },
+  "homepage": "https://github.com/GLADIADORPSD/electron-tray-sample#readme",
+  "dependencies": {
+    "electron": "^13.1.7"
+  }
+}
